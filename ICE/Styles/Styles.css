@@ -1,0 +1,17 @@
+h1 {
+    color: slateblue;
+}
+
+main h1 {
+    background-color: slateblue;
+}
+
+.my-footer {
+    font-size: larger;
+    background-color: lightblue;
+}
+
+#my-footer {
+    font-size: larger;
+    background-color: lightblue;
+}

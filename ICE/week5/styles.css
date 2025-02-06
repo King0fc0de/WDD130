@@ -1,0 +1,20 @@
+.topNonsense {
+
+}
+
+.topNonsense img {
+    display: block
+}
+
+.bottomNonsense {
+    background-color: grey;
+    min-width: 100%;
+    min-height: 100%
+}
+
+.bottomNonsense img {
+    max-width: 23%;
+    display: inline-block;
+    border-radius: 50%;
+    border-color: hotpink;
+}

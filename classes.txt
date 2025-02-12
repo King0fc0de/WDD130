@@ -1,0 +1,32 @@
+classes
+
+Fighter
+spear (reach, fast, weak)
+halberd (reach, strong, slow)
+javelin (throw, weak)
+
+Rouge
+dagger (for climbing)
+poisoned knife (5s seconds)
+smokebomb (3 seconds of smoke particles, also a little glowing)
+
+mage
+staff (resistance)
+orb of warping (tps to home)
+book of elements (freeze orb, fire glyph, areopult, growth)
+
+/give @p written_book[written_book_content={title:"Tome of the Woods",author:"The Wizard of the Woodlands",generation:3,pages:['[{"text":"           «-»\\n« Over The Horizon »\\n           «-»\\n-------------------"},{"text":"\\n\\n      « Homeward »","color":"#005555","clickEvent":{"action":"run_command","value":"/execute in minecraft:overworld run tp @p 0 83 0"}},{"text":"\\n\\n     « Stone Wall »","color":"#005555","clickEvent":{"action":"run_command","value":"/execute in minecraft:overworld run tp @p 4022 91 3977"}},{"text":"\\n\\n       « Friend »","color":"#005555","clickEvent":{"action":"run_command","value":"/execute in minecraft:the_end run tp 2 59 -11"}},{"text":"\\n\\n     « STRANGER »","color":"#005555","obfuscated":true}]','[{"text":"           «-»\\n  « Forests Boons »\\n           «-»\\n-------------------"},{"text":"\\n\\n        « clear »","color":"#005555","clickEvent":{"action":"run_command","value":"/effect clear @p"}},{"text":"\\n\\n        « Sight »","color":"#005555","clickEvent":{"action":"run_command","value":"/effect give @p night_vision infinite"}},{"text":"\\n\\n      « Regrowth »","color":"#005555","clickEvent":{"action":"run_command","value":"/effect give @p minecraft:saturation 60"}}]']}] 1
+
+
+6 mage stand-off
+fire
+water
+ice
+air
+earth
+forest
+void
+light
+lunar
+bio
+
